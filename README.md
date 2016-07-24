@@ -35,13 +35,6 @@ Get a license text.
 
 - __license__ {String} License name
 
-### `make(license, opts)`
-
-Get and fill placeholders in a license text.
-
-- __license__ {String} License name
-- __opts__ {Object} Hash of placeholder name and value
-
 ## Licenses
 
 - afl-3.0

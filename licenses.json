@@ -2,7 +2,7 @@
   "afl-3.0": {
     "title": "Academic Free License v3.0",
 	"source": "http://opensource.org/licenses/afl-3.0",
-	"description": "The Academic Free License is a variant of the Open Software License that does not require that the source code of derivative works be disclosed. It contains explicit copyright and patent grants and reserves trademark rights in the author."
+    "description": "The Academic Free License is a variant of the Open Software License that does not require that the source code of derivative works be disclosed. It contains explicit copyright and patent grants and reserves trademark rights in the author."
   },
   "agpl-3.0": {
     "title": "GNU Affero General Public License v3.0",
@@ -57,7 +57,7 @@
   "eupl-1.1": {
     "title": "European Union Public License 1.1",
 	"source": "https://joinup.ec.europa.eu/community/eupl/og_page/european-union-public-licence-eupl-v11",
-	"description": "The �European Union Public Licence� (EUPL) is a copyleft free/open source software license created on the initiative of and approved by the European Commission in 22 official languages of the European Union."
+	"description": "The European Union Public Licence (EUPL) is a copyleft free/open source software license created on the initiative of and approved by the European Commission in 22 official languages of the European Union."
   },
   "gpl-2.0": {
     "title": "GNU General Public License v2.0",
