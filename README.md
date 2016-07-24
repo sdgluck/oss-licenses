@@ -71,3 +71,14 @@ Get and fill placeholders in a license text.
 - unlicense
 - wtfpl
 - zlib
+
+## Contributing
+
+All pull requests and issues welcome!
+
+If you're not sure how, check out Kent C. Dodds'
+[great video tutorials on egghead.io](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)!
+
+## Author & License
+
+`oss-licenses` was created by [Sam Gluck](https://twitter.com/sdgluck) and is released under the MIT license.
