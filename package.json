@@ -1,0 +1,8 @@
+{
+  "name": "oss-licenses",
+  "version": "0.1.0",
+  "description": "A collection of OSS license texts",
+  "main": "index.js",
+  "author": "Sam Gluck <sdgluck@gmail.com>",
+  "license": "MIT"
+}
