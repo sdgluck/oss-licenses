@@ -1,6 +1,6 @@
 # oss-licenses
 
-> 
+> A collection of OSS license texts
 
 <a href="http://badge.fury.io/js/oss-licenses"><img alt="npm version" src="https://badge.fury.io/js/oss-licenses.svg"></a>
 
