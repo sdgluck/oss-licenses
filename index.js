@@ -13,7 +13,7 @@ module.exports.make = function (license, opts) {
   var text = fs.readFileSync(path.resolve('./licenses', license + '.txt'), 'utf8')
 
   Object.keys(opts).forEach(function (key) {
-    text.replace(new RegExp(key, 'g'), opts[key])
+    text.replace(new RegExp('[' + key + ']', 'g'), opts[key])
   })
 
   return text
