@@ -3,12 +3,46 @@
 > A collection of OSS license texts
 
 <a href="http://badge.fury.io/js/oss-licenses"><img alt="npm version" src="https://badge.fury.io/js/oss-licenses.svg"></a>
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 A collection of OSS license texts taken from
 [choosealicense.com](https://github.com/github/choosealicense.com/tree/gh-pages/_licenses)
 but with all header information stripped out of actual license texts and moved to `licenses.json`.
 
-Licenses:
+## Install
+
+```sh
+npm i --save oss-licenses
+```
+
+## Import
+
+```js
+// ES2015
+import licenses from 'oss-licenses'
+
+// CommonJS
+var licenses = require('oss-licenses')
+```
+
+## API
+
+The main export is [`licenses.json`](https://github.com/sdgluck/oss-licenses/blob/master/licenses.json).
+
+### `get(license)`
+
+Get a license text.
+
+- __license__ {String} License name
+
+### `make(license, opts)`
+
+Get and fill placeholders in a license text.
+
+- __license__ {String} License name
+- __opts__ {Object} Hash of placeholder name and value
+
+## Licenses
 
 - afl-3.0
 - agpl-3.0

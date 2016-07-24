@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "description": "A collection of OSS license texts",
   "main": "index.js",
+  "scripts": {
+    "lint": "standard index.js"
+  },
   "author": "Sam Gluck <sdgluck@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
 }
